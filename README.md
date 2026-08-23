@@ -61,7 +61,7 @@ Increasing the regularization strength did not improve the results for this data
 
 ## Actual vs Predicted
 
-I also plotted the actual house prices against the prices predicted by the model to visually understand the prediction errors.
+I also plotted the actual house prices against the prices predicted by the model to visually understand the prediction errors(avaible in the screenshot)
 
 <!-- Add your graph here -->
 
